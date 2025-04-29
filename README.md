@@ -1,4 +1,4 @@
 # QA Automation - JavaScript Fundamental Task
 
-Name: Fitra Muhammad Anugrah
-Kelas: Kak Maya
+Name: Fitra Muhammad Anugrah <br>
+From Class: Kak Maya
