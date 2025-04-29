@@ -23,8 +23,8 @@ const pilihan = prompt(`Pilih operasi:
 4. Pembagian
 `);
 
-const angka1 = parseFloat(prompt("Angka 1:"));
-const angka2 = parseFloat(prompt("Angka 2:"));
+const angka1 = parseFloat(prompt("Angka 1: "));
+const angka2 = parseFloat(prompt("Angka 2: "));
 
 // Variabel untuk menyimpan hasil dan nama operasi
 let hasil;
